@@ -5,9 +5,6 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.geko.boo
-
 project_entries:
   - title: Hosting
     url: hosting
@@ -24,11 +21,11 @@ old_project_entries:
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
 footer_entries:
-  - title: Geko's homepage
-    url: https://www.geko.boo
-
   - title: github
     url: https://github.com/Gekko-Geko
+
+  - title: contact
+    url: mailto:gekko@geko.boo
 
   - title: feed
     url: feed.xml
