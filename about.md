@@ -3,4 +3,4 @@ layout: post
 title: About
 ---
 
-Just a dude with some notes
+Just a dude with some notes.
