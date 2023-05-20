@@ -13,6 +13,10 @@ project_entries:
     url: hosting
     desc: Websites for hosting stuff
 
+  - title: Docker
+    url: docker-stuff
+    desc: Docker stuff
+
 
 old_project_entries:
   - title: Moonwalk
