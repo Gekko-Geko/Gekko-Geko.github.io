@@ -14,6 +14,17 @@ project_entries:
     url: docker-stuff
     desc: Docker stuff
 
+  - title: Zsh
+    url: zsh
+    desc: Zsh config files
+
+  - title: Tmux
+    url: tmux
+    desc: Tmux config files
+
+  - title: LF
+    url: lf
+    desc: Lf config files
 
 old_project_entries:
   - title: Moonwalk
@@ -61,5 +72,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
