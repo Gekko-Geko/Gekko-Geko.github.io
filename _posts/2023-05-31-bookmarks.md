@@ -28,6 +28,7 @@ Some bookmarks
 - [tiny tiny rss](https://tt-rss.org/)
 - [bashly](https://github.com/DannyBen/bashly)
 - [notica](https://notica.us/?N3CgmB)
+- [maglit](https://maglit.me/)
 - [bfg repo cleaner](https://github.com/rtyley/bfg-repo-cleaner)
 - [goaccess](https://goaccess.io/)
 - [kompose](https://github.com/kubernetes/kompose)
@@ -118,6 +119,10 @@ Bashly is a command line application (written in Ruby) that lets you generate fe
 ## Notica
 
 Notica sends a notification to a tab in your browser when ran. It works over SSH and to your phone.
+
+## Maglit
+
+Privacy Respecting Encrypted Link Shortener.
 
 ## Bfg repo cleaner
 
