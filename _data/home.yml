@@ -26,6 +26,10 @@ project_entries:
     url: lf
     desc: Lf config files
 
+  - title: Bookmarks
+    url: bookmarks
+    desc: Some bookmarks of sites and tools
+
 old_project_entries:
   - title: Moonwalk
     url: https://github.com/abhinavs/moonwalk
