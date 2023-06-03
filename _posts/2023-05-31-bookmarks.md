@@ -14,10 +14,12 @@ Some bookmarks
 - [Bfg repo cleaner](https://github.com/rtyley/bfg-repo-cleaner)
 - [Desec dns](https://desec.io/)
 - [Diun](https://github.com/crazy-max/diun)
+- [Dokku](https://github.com/dokku/dokku/)
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 - [Goaccess](https://github.com/allinurl/goaccess)
 - [Heimdall](https://github.com/linuxserver/Heimdall)
 - [Homer](https://github.com/bastienwirtz/homer)
+- [HRConvert2](https://github.com/zelon88/HRConvert2)
 - [Invidious](https://github.com/iv-org/invidious)
 - [Keybr](https://www.keybr.com/)
 - [Kompose](https://github.com/kubernetes/kompose)
@@ -30,13 +32,17 @@ Some bookmarks
 - [Nginx proxy manager](https://github.com/NginxProxyManager/nginx-proxy-manager)
 - [Ninite](https://ninite.com/)
 - [Notica](https://notica.us/?d2M_wT)
+- [Onionshare](https://github.com/onionshare/onionshare)
 - [Pacstall](https://github.com/pacstall/pacstall)
 - [Pissmail](https://pissmail.com/)
 - [Pure sh bible](https://github.com/dylanaraps/pure-sh-bible)
 - [Python anti formatter](https://github.com/LeviBorodenko/lancer)
+- [Reconftw](https://github.com/six2dez/reconftw)
 - [SearXNG](https://github.com/searxng/searxng)
 - [Snyk](https://snyk.io/)
+- [Sshmon](https://github.com/hpello/sshmon)
 - [Tiny tiny rss](https://git.tt-rss.org/fox/tt-rss.git)
+- [Tinywow](https://tinywow.com/)
 - [Uselessweb](https://theuselessweb.com/)
 - [Ventoy](https://www.ventoy.net/en/index.html)
 - [Wireguard ui](https://github.com/ngoduykhanh/wireguard-ui)
@@ -80,6 +86,12 @@ Docker Image Update Notifier is a CLI application written in Go and delivered as
 
 [github](https://github.com/crazy-max/diun)
 
+## Dokku
+
+Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
+
+[github](https://github.com/dokku/dokku/)
+
 ## FreshRSS
 
 FreshRSS is a self-hosted RSS feed aggregator. It is lightweight, easy to work with, powerful, and customizable.
@@ -103,6 +115,12 @@ Heimdall Application Dashboard is a dashboard for all your web applications. It 
 A dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file.
 
 [github](https://github.com/bastienwirtz/homer)
+
+## HRConvert2
+
+A self-hosted drag-and-drop file conversion server & file sharing tool that supports 86 file formats with 4 color schemes & 13 end-user selctable languages.
+
+[github](https://github.com/zelon88/HRConvert2)
 
 ## Invidious
 
@@ -176,6 +194,12 @@ Notica sends a notification to a tab in your browser when ran. It works over SSH
 
 [homepage](https://notica.us/?d2M_wT)
 
+## Onionshare
+
+OnionShare is an open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
+
+[github](https://github.com/onionshare/onionshare)
+
 ## Pacstall
 
 Pacstall is the AUR Ubuntu wishes it had. It takes the concept of the AUR and puts a spin on it, making it easier to install programs without scouring github repos and the likes.
@@ -200,6 +224,12 @@ Ever heard of Black? This is the opposite. A tool to turn your clean python code
 
 [github](https://github.com/LeviBorodenko/lancer)
 
+## Reconftw
+
+reconFTW automates the entire process of reconnaissance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.
+
+[github](https://github.com/six2dez/reconftw)
+
 ## SearXNG
 
 Privacy-respecting, hackable metasearch engine.
@@ -212,11 +242,24 @@ Snyk is a developer security platform. Integrating directly into development too
 
 [homepage](https://snyk.io/)
 
+## Sshmon
+
+SSHMon is a program designed to manage and monitor ssh connections. It has been tested on Linux and OSX with SSH ≥ 6.7.
+
+[github](https://github.com/hpello/sshmon)
+
 ## Tiny tiny rss
 
 Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator.
 
 [git](https://git.tt-rss.org/fox/tt-rss.git)
+
+
+## Tinywow
+
+We offer PDF, video, image and other online tools to make your life easier
+
+[homepage](https://tinywow.com/)
 
 ## Uselessweb
 
