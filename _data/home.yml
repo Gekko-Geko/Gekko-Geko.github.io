@@ -6,6 +6,10 @@ navbar_entries:
     url: blog
 
 project_entries:
+  - title: Bookmarks
+    url: bookmarks
+    desc: Some bookmarks of sites and tools
+
   - title: Hosting
     url: hosting
     desc: Websites for hosting stuff
@@ -14,21 +18,9 @@ project_entries:
     url: docker-stuff
     desc: Docker stuff
 
-  - title: Zsh
-    url: zsh
-    desc: Zsh config files
-
-  - title: Tmux
-    url: tmux
-    desc: Tmux config files
-
-  - title: LF
-    url: lf
-    desc: Lf config files
-
-  - title: Bookmarks
-    url: bookmarks
-    desc: Some bookmarks of sites and tools
+  - title: CTF
+    url: ctf
+    desc: Some ctf and cyber security tools
 
 old_project_entries:
   - title: Moonwalk
