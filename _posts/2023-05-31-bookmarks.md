@@ -12,6 +12,7 @@ Some bookmarks
 - [Apt fast](https://github.com/ilikenwf/apt-fast)
 - [Bashly](https://github.com/DannyBen/bashly)
 - [Bfg repo cleaner](https://github.com/rtyley/bfg-repo-cleaner)
+- [CrowdSec](https://github.com/crowdsecurity/crowdsec)
 - [Desec dns](https://desec.io/)
 - [Diun](https://github.com/crazy-max/diun)
 - [Dokku](https://github.com/dokku/dokku/)
@@ -73,6 +74,12 @@ The BFG is a simpler, faster alternative to git-filter-branch for cleansing bad 
   - Removing Passwords, Credentials & other Private data
 
 [github](https://github.com/rtyley/bfg-repo-cleaner)
+
+## CrowdSec
+
+CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on fail2ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), it uses Grok patterns to parse logs and YAML scenarios to identify behaviors.
+
+[github](https://github.com/crowdsecurity/crowdsec)
 
 ## Desec dns
 
