@@ -12,11 +12,11 @@ project_entries:
 
   - title: Hosting
     url: hosting
-    desc: Websites for hosting stuff
+    desc: Websites for hosting
 
   - title: Docker
-    url: docker-stuff
-    desc: Docker stuff
+    url: docker
+    desc: Docker
 
   - title: CTF
     url: ctf
