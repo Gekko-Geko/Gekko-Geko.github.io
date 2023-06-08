@@ -14,10 +14,6 @@ project_entries:
     url: hosting
     desc: Websites for hosting
 
-  - title: Docker
-    url: docker
-    desc: Docker
-
   - title: CTF
     url: ctf
     desc: Some ctf and cyber security tools
