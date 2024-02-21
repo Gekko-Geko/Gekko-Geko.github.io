@@ -157,6 +157,15 @@ Simple terminal UI for both docker and docker-compose, written in Go with the go
 
 A simple terminal UI for git commands, written in Go with the gocui library.
 
+```bash
+#!/usr/bin/env bash
+
+LAZYGIT_VERSION=$(curl -s "https://api.github.com/repos/jesseduffield/lazygit/releases/latest" | grep -Po '"tag_name": "v\K[^"]*')
+curl -Lo /tmp/lazygit.tar.gz "https://github.com/jesseduffield/lazygit/releases/latest/download/lazygit_${LAZYGIT_VERSION}_Linux_x86_64.tar.gz"
+cd /tmp; tar xf lazygit.tar.gz lazygit
+sudo install lazygit /usr/local/bin
+```
+
 [github](https://github.com/jesseduffield/lazygit)
 
 ## Link ace
